@@ -2,6 +2,14 @@
 
 A full-stack social media-style web application where users can create posts with images and captions and view them in a dynamic feed.
 
+## 📸 Screenshots
+
+### Create Post
+![Create Post](./screenshots/create-post.png)
+
+### Feed
+![Feed](./screenshots/feed.png)
+
 The project demonstrates a complete frontend-to-backend workflow using React, Node.js, Express, MongoDB, and ImageKit.
 
 ## 🚀 Features
